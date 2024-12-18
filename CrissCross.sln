@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrissCross", "CrissCross\CrissCross.csproj", "{C776FF33-56D8-4796-8FC2-E1ABE0953868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C776FF33-56D8-4796-8FC2-E1ABE0953868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C776FF33-56D8-4796-8FC2-E1ABE0953868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C776FF33-56D8-4796-8FC2-E1ABE0953868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C776FF33-56D8-4796-8FC2-E1ABE0953868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC827E1-DDC4-454B-B66C-9AD9B1DCF2E6}
+	EndGlobalSection
+EndGlobal
