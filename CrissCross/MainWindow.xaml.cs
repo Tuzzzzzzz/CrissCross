@@ -24,6 +24,8 @@ namespace CrissCross
                 "мустанг" + '\n' +
                 "гиппопотам";
 
+            //InputTextBox.Text = "привет мир или";
+
             var textBoxReader = new TextBoxReader(InputTextBox);
             var canvasDrawer = new CanvasDrawer(OutputCanvas);
             _crissCross = new Game(textBoxReader, canvasDrawer);

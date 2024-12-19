@@ -14,9 +14,9 @@ public class Game
 
     private List<string> _rawWords = new List<string>();
 
-    private int _currentSpace;
+    private int _currentSpace = 1000;
 
-    private double _currentDensity;
+    private double _currentDensity = -1;
 
     private double _alpha;
 
@@ -61,14 +61,17 @@ public class Game
         if (wordArea.Count < _rawWords.Count) return false;
 
         int space = wordArea.Space();
-        double density = space * 1.0 / wordArea.IntersectionCount;
-        if (_currentWordArea == null || density > _currentDensity)
-        {
+        //if (space > _currentSpace * 2) return false;
+
+        double density = wordArea.IntersectionCount * 1.0 / space;
+        //if (_currentWordArea == null || density > _currentDensity)
+        //if (_currentWordArea == null || wordArea.IntersectionCount >= _currentWordArea.IntersectionCount)
+        //{
             _currentWordArea = new WordArea(wordArea);
             _currentSpace = space;
             _currentDensity = density;
-            return true;
-        }
+            //return true;
+        //}
         return false;
     }
 
@@ -78,23 +81,26 @@ public class Game
         if (_currentWordArea == null) return false;
 
         int space = wordArea.Space();
-        if (space >= _currentSpace) return true;
+        if (space * 1.4 >= _currentSpace) return true;
 
-        double density = wordArea.IntersectionCount * 1.0 / space;
-        if (density + _alpha < _currentDensity) return true;
+        //double density = wordArea.IntersectionCount * 1.0 / space;
+        //if (density + _alpha < _currentDensity) return true;
 
         double mediunSumWordArea = wordArea.Sum(word => word.Count) * 1.0 / wordArea.Count;
         double mediunSumRawWords = rawWords.Sum(str => str.Length) * 1.0 / rawWords.Count;
-        if (mediunSumWordArea >= mediunSumRawWords) return true;
+        if (mediunSumWordArea <= mediunSumRawWords) return true;
 
         return false;
     }
 
     private void BackTraсking(WordArea wordArea, List<string> rawWords)
     {
+
         if (IsSolution(wordArea)) return;
 
         if (IsBadParticalSolution(wordArea, rawWords)) return;
+
+        
 
         for (int i = 0; i < rawWords.Count; i++)
         {

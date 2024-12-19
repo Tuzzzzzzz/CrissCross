@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\CrissCross\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\istringlistreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\istringlistreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\icelldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\icelldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\io\\canvasdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\io\\canvasdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +39,16 @@
       "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\io\\canvasdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\io\\canvasdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\icelldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\icelldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\io\\textboxreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\io\\textboxreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\istringlistreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\istringlistreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|d:\\crisscross\\crisscross\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C776FF33-56D8-4796-8FC2-E1ABE0953868}|CrissCross\\CrissCross.csproj|solutionrelative:crisscross\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,43 +66,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TextBoxReader.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\IO\\TextBoxReader.cs",
               "RelativeDocumentMoniker": "CrissCross\\IO\\TextBoxReader.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\IO\\TextBoxReader.cs",
               "RelativeToolTip": "CrissCross\\IO\\TextBoxReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:50.246Z"
+              "WhenOpened": "2024-12-18T18:04:50.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CanvasDrawer.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\IO\\CanvasDrawer.cs",
               "RelativeDocumentMoniker": "CrissCross\\IO\\CanvasDrawer.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\IO\\CanvasDrawer.cs",
               "RelativeToolTip": "CrissCross\\IO\\CanvasDrawer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwEkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:46.274Z"
+              "WhenOpened": "2024-12-18T18:04:46.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Word.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\Word.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\Word.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\Logic\\Word.cs",
               "RelativeToolTip": "CrissCross\\Logic\\Word.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwFIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:40.311Z"
+              "WhenOpened": "2024-12-18T18:04:40.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Orientation.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\Orientation.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\Orientation.cs",
@@ -110,11 +113,12 @@
               "RelativeToolTip": "CrissCross\\Logic\\Orientation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:39.56Z"
+              "WhenOpened": "2024-12-18T18:04:39.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "IStringListReader.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\IStringListReader.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\IStringListReader.cs",
@@ -122,11 +126,12 @@
               "RelativeToolTip": "CrissCross\\Logic\\IStringListReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:38.441Z"
+              "WhenOpened": "2024-12-18T18:04:38.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ICellDrawer.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\ICellDrawer.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\ICellDrawer.cs",
@@ -134,31 +139,34 @@
               "RelativeToolTip": "CrissCross\\Logic\\ICellDrawer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:37.493Z"
+              "WhenOpened": "2024-12-18T18:04:37.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\Game.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\Game.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\Logic\\Game.cs",
               "RelativeToolTip": "CrissCross\\Logic\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:36.163Z"
+              "WhenOpened": "2024-12-18T18:04:36.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "WordArea.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\Logic\\WordArea.cs",
               "RelativeDocumentMoniker": "CrissCross\\Logic\\WordArea.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\Logic\\WordArea.cs",
               "RelativeToolTip": "CrissCross\\Logic\\WordArea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwGkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:33.772Z"
+              "WhenOpened": "2024-12-18T18:04:33.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,39 +178,42 @@
               "RelativeToolTip": "CrissCross\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:04:27.721Z"
+              "WhenOpened": "2024-12-18T18:04:27.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\App.xaml",
               "RelativeDocumentMoniker": "CrissCross\\App.xaml",
               "ToolTip": "D:\\CrissCross\\CrissCross\\App.xaml",
               "RelativeToolTip": "CrissCross\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T18:04:11.473Z"
+              "WhenOpened": "2024-12-18T18:04:11.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CrissCross\\MainWindow.xaml",
               "ToolTip": "D:\\CrissCross\\CrissCross\\MainWindow.xaml",
               "RelativeToolTip": "CrissCross\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T18:00:53.631Z"
+              "WhenOpened": "2024-12-18T18:00:53.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\CrissCross\\CrissCross\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CrissCross\\MainWindow.xaml.cs",
               "ToolTip": "D:\\CrissCross\\CrissCross\\MainWindow.xaml.cs",
               "RelativeToolTip": "CrissCross\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T18:00:52.413Z",
               "EditorCaption": ""

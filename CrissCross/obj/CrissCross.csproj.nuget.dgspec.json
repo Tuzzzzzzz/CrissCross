@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuzee\\OneDrive\\Desktop\\CrissCross\\CrissCross\\CrissCross.csproj": {}
+    "D:\\CrissCross\\CrissCross\\CrissCross.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuzee\\OneDrive\\Desktop\\CrissCross\\CrissCross\\CrissCross.csproj": {
+    "D:\\CrissCross\\CrissCross\\CrissCross.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CrissCross\\CrissCross\\CrissCross.csproj",
+        "projectUniqueName": "D:\\CrissCross\\CrissCross\\CrissCross.csproj",
         "projectName": "CrissCross",
-        "projectPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CrissCross\\CrissCross\\CrissCross.csproj",
+        "projectPath": "D:\\CrissCross\\CrissCross\\CrissCross.csproj",
         "packagesPath": "C:\\Users\\tuzee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuzee\\OneDrive\\Desktop\\CrissCross\\CrissCross\\obj\\",
+        "outputPath": "D:\\CrissCross\\CrissCross\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuzee\\AppData\\Roaming\\NuGet\\NuGet.Config",

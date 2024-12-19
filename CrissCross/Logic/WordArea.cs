@@ -8,7 +8,10 @@ public class WordArea : IEnumerable<Word>
 
     private HashSet<(int, int)> _intersectionSet = new HashSet<(int, int)>();
 
-    
+    private HashSet<(int, int)> _tempIntersectionSet = new HashSet<(int, int)>();
+
+
+
     public WordArea(params Word[] words)
     {
         foreach (var word in words) NotSafeAdd(word);
@@ -51,6 +54,9 @@ public class WordArea : IEnumerable<Word>
 
     public bool TryAdd(Word newWord)
     {
+        //множество для временного хранения новых пересечений
+        _tempIntersectionSet.Clear();
+
         //проверяем являются ли допустимыми пересечения со словами
         for (int i = 0; i < newWord.Count; i++)
         {
@@ -63,30 +69,35 @@ public class WordArea : IEnumerable<Word>
                     {
                         if (letter != newWord[i])
                         {
-                            Remove(newWord);
                             return false;
                         }
                         else
                         {
-                            _intersectionSet.Add(xy);
-                            break;
+                            _tempIntersectionSet.Add(xy);
                         }
-                    }
-                    //над буквой без пересечения или под ней есть занятая ячейка
-                    else if (word.TryCharAt(newWord.XYOver(xy), out _)
-                            || word.TryCharAt(newWord.XYUnder(xy), out _))
-                    {
-
-                        Remove(newWord);
-                        return false;
                     }
                 }
             }
             //два слова уже пересеклись в данной позиции
             else
             {
-                Remove(newWord);
                 return false;
+            }
+        }
+
+        //проверяем, чтобы над или под буквой без пересечения не были заняты ячейки
+        for (int i = 0; i < newWord.Count; i++)
+        {
+            var xy = newWord.XYFrom(i);
+            if (!_tempIntersectionSet.Contains(xy))
+            {
+                foreach (Word word in this)
+                {
+                    if (word.TryCharAt(newWord.XYOver(xy), out _) || word.TryCharAt(newWord.XYUnder(xy), out _))
+                    {
+                        return false;
+                    }
+                }
             }
         }
 
@@ -98,14 +109,12 @@ public class WordArea : IEnumerable<Word>
             {
                 if (word.TryCharAt(leftXY, out _))
                 {
-                    Remove(newWord);
                     return false;
                 }
             }
         }
         else
         {
-            Remove(newWord);
             return false;
         }
 
@@ -117,18 +126,16 @@ public class WordArea : IEnumerable<Word>
             {
                 if (word.TryCharAt(rightXY, out _))
                 {
-                    Remove(newWord);
                     return false;
                 }
             }
         }
         else
         {
-            Remove(newWord);
             return false;
         }
 
-
+        foreach (var xy in _tempIntersectionSet) _intersectionSet.Add(xy);
         NotSafeAdd(newWord);
         return true;
     }
